@@ -1,0 +1,15 @@
+C:\Users\Davi\Desktop\exerciciosDIo\ooCsharp\bin\Debug\net6.0\ooCsharp.exe
+C:\Users\Davi\Desktop\exerciciosDIo\ooCsharp\bin\Debug\net6.0\ooCsharp.deps.json
+C:\Users\Davi\Desktop\exerciciosDIo\ooCsharp\bin\Debug\net6.0\ooCsharp.runtimeconfig.json
+C:\Users\Davi\Desktop\exerciciosDIo\ooCsharp\bin\Debug\net6.0\ooCsharp.dll
+C:\Users\Davi\Desktop\exerciciosDIo\ooCsharp\bin\Debug\net6.0\ref\ooCsharp.dll
+C:\Users\Davi\Desktop\exerciciosDIo\ooCsharp\bin\Debug\net6.0\ooCsharp.pdb
+C:\Users\Davi\Desktop\exerciciosDIo\ooCsharp\obj\Debug\net6.0\ooCsharp.csproj.AssemblyReference.cache
+C:\Users\Davi\Desktop\exerciciosDIo\ooCsharp\obj\Debug\net6.0\ooCsharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Davi\Desktop\exerciciosDIo\ooCsharp\obj\Debug\net6.0\ooCsharp.AssemblyInfoInputs.cache
+C:\Users\Davi\Desktop\exerciciosDIo\ooCsharp\obj\Debug\net6.0\ooCsharp.AssemblyInfo.cs
+C:\Users\Davi\Desktop\exerciciosDIo\ooCsharp\obj\Debug\net6.0\ooCsharp.csproj.CoreCompileInputs.cache
+C:\Users\Davi\Desktop\exerciciosDIo\ooCsharp\obj\Debug\net6.0\ooCsharp.dll
+C:\Users\Davi\Desktop\exerciciosDIo\ooCsharp\obj\Debug\net6.0\ref\ooCsharp.dll
+C:\Users\Davi\Desktop\exerciciosDIo\ooCsharp\obj\Debug\net6.0\ooCsharp.pdb
+C:\Users\Davi\Desktop\exerciciosDIo\ooCsharp\obj\Debug\net6.0\ooCsharp.genruntimeconfig.cache
